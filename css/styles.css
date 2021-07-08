@@ -1,0 +1,114 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  margin: 0;
+  color: #F4F4F4;
+}
+
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 562%;
+  margin: 0;
+  margin-top: 50px;
+  color: #F4F4F4;
+}
+h2{
+  color: #F4F4F4;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: 2;
+}
+h3 {
+  color: #F4F4F4;
+}
+
+p {
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+hr {
+  width:5%;
+  border: 0;
+  border-top: 5px;
+  border-style: dotted;
+  border-color: #F4F4F4;
+  margin: auto;
+
+
+}
+
+.top-container {
+  padding-top: 250px;
+  background-color: #557571;
+}
+
+.p1{
+  padding-bottom: 50px;
+}
+.middle-container {
+  background-color: #D49A89;
+}
+
+.bottom-container {
+  background-color: #F7D1BA;
+  color: #557571;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px
+}
+
+.programmer {
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.me_picture {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+.skill-row {
+  width: 50%;
+  display: inline-block;
+  padding-bottom: 50px;
+  text-align: left;
+}
+.python {
+  margin-right: 50px;
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+
+.database {
+  float: right;
+  width: 150px;
+  height: 150px;
+}
+.footer-link{
+  color: #557571;
+  display: inline-block;
+  margin: 10px;
+}
+.btn {
+  display: inline-block;
+  border: 2px solid #557571;
+  border-radius: 12px;
+  padding: 5px;
+  text-decoration: none;
+  color: #F4F4F4;
+  background-color: #557571
+}
+
+.bottom-text{
+font-size: 80%;
+}
